@@ -6,8 +6,8 @@ Me chamo William Alves e atualmente curso Sistemas de Informação no Centro Uni
 
 ### 🤖 Linguagens e Tecnologias
 <div style="display: inline-block;">
-  <img align="center" alt="william-java" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" alt="william-sql" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="william-java" height="66" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="center" alt="william-sql" height="66" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 
 ### 📊 Estatísticas
