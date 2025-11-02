@@ -2,8 +2,6 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo William Alves e atualmente curso Sistemas de Informação no Centro Universitário Senac - Santo Amaro. Sou um desenvolvedor com foco em Back-end, apaixonado por tecnologia, resolução de problemas e criar soluções. Possuo conhecimentos em Java, incluindo orientação a objetos, estrutura de dados e integração com banco de dados. Também tenho familiaridade com Git, SQL e boas práticas de versionamento. 
-
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
 
