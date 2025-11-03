@@ -1,6 +1,4 @@
-# William Alves
-
-**`Desenvolvedor Back-end`**
+<img src="https://github.com/WilliamAlves1/WilliamAlves1/blob/main/github-header-banner.png?raw=true" width="100%" alt="Banner do Perfil de William Alves" />
 
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
