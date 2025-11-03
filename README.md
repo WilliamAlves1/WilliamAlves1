@@ -1,11 +1,22 @@
 <img src="https://github.com/WilliamAlves1/WilliamAlves1/blob/main/github-header-banner.png?raw=true" width="100%" alt="Banner do Perfil de William Alves" />
 
-### Languages and Databases
+### Languages and Databases                                 
 [![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 ### Development Tools
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,idea,obsidian)](https://skillicons.dev)
+
+### Contacts
+<div style="display: flex; gap: 10px; align-items: center;">
+  <a href="https://www.linkedin.com/in/william-alves-37657a302/" target="_blank">
+      <a href="mailto:williamalvesg02@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin,gmail" alt="Meu Perfil no LinkedIn" />
+  </a>
+</div>
+
+</div>
+
 
 ### Stats
 <div style="display: flex; gap: 10px; align-items: flex-start;">
