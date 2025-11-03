@@ -10,11 +10,7 @@
 ### Contacts
 <div style="display: flex; gap: 10px; align-items: center;">
   <a href="https://www.linkedin.com/in/william-alves-37657a302/" target="_blank">
-      <a href="mailto:williamalvesg02@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin,gmail" alt="Meu Perfil no LinkedIn" />
-  </a>
-</div>
-
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="Meu Perfil no LinkedIn" />
 </div>
 
 
