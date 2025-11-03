@@ -16,14 +16,14 @@
 
 ### Stats
 <div style="display: flex; gap: 10px; align-items: flex-start;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/WilliamAlves1/github-readme-stats">
       <img 
         src="https://github-readme-stats.vercel.app/api?username=WilliamAlves1&show_icons=true&theme=github_dark&include_all_commits=true" 
         height="170" 
         alt="Estatísticas do GitHub de WilliamAlves1"
       />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/WilliamAlves1/github-readme-stats">
       <img 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamAlves1&layout=compact&theme=github_dark" 
         height="170" 
