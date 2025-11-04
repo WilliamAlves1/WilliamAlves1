@@ -12,6 +12,7 @@
   <a href="https://www.linkedin.com/in/william-alves-37657a302/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="Meu Perfil no LinkedIn" />
     &nbsp;
+    <a href="mailto:williamalvesg02@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Meu Gmail" />
 </div>
 
