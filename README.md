@@ -8,22 +8,24 @@
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,idea,obsidian)](https://skillicons.dev)
 
 ### Contacts
-<div style="display: flex; gap: 10px; align-items: center;">
+<div style="display: flex; gap: 20px; align-items: center;">
   <a href="https://www.linkedin.com/in/william-alves-37657a302/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="Meu Perfil no LinkedIn" />
+    &nbsp;
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Meu Gmail" />
 </div>
 
 
 ### Stats
 <div style="display: flex; gap: 10px; align-items: flex-start;">
-    <a href="https://github.com/WilliamAlves1/github-readme-stats">
+    <a href="https://github.com/WilliamAlves1">
       <img 
         src="https://github-readme-stats.vercel.app/api?username=WilliamAlves1&show_icons=true&theme=github_dark&include_all_commits=true" 
         height="170" 
         alt="Estatísticas do GitHub de WilliamAlves1"
       />
     </a>
-    <a href="https://github.com/WilliamAlves1/github-readme-stats">
+    <a href="https://github.com/WilliamAlves1">
       <img 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamAlves1&layout=compact&theme=github_dark" 
         height="170" 
