@@ -5,7 +5,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 ### Development Tools
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,idea,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,idea,pycharm,obsidian)](https://skillicons.dev)
 
 ### Contacts
 <div style="display: flex; gap: 20px; align-items: center;">
