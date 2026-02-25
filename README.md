@@ -1,25 +1,14 @@
-<img src="https://github.com/WilliamAlves1/WilliamAlves1/blob/main/github-header-banner.png?raw=true" width="100%" alt="Banner do Perfil de William Alves" />
 
-### Languages and Databases                                 
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,html,css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+### Languages and Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,mysql,linux&perline=6" />
+</a>
 
-### Development Tools
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,idea,pycharm,obsidian)](https://skillicons.dev)
+---
 
-### Contacts
-<div style="display: flex; gap: 20px; align-items: center;">
-  <a href="https://www.linkedin.com/in/william-alves-37657a302/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="Meu Perfil no LinkedIn" />
-    &nbsp;
-    <a href="mailto:williamalvesg02@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Meu Gmail" />
+### 📊 Stats
+<div>
+  <img src="https://ghstats.vercel.app/api?username=WilliamAlves1&show_icons=true&theme=github_dark&count_private=true" height="150em" />
+  &nbsp;&nbsp;
+  <img src="https://ghstats.vercel.app/api/top-langs/?username=WilliamAlves1&layout=compact&langs_count=4&theme=github_dark&v=20263090T18" height="150em" />
 </div>
-
-
-### Stats
-<div style = "display: flex; gap: 10px; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=WilliamAlves1&show_icons=true&theme=github_dark&count_private=true&v=2" height="150em" alt="GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamAlves1&layout=compact&langs_count=16&theme=github_dark" height="150em" alt="Top Languages"/>
-</div>
-
